@@ -1,2 +1,5 @@
 venv
 logs
+src/__pycache__
+src/components/__pycache__
+artifacts
